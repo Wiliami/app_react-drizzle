@@ -13,6 +13,11 @@ Este projeto contém amostra de uma aplicação web usando Drizzle ORM e react p
 - [ ] Deve ser possível buscar a lista de membros;
 - [ ] Deve ser possível atualizar o cargo de um membro;
 
+### Courses
+- [ ] Deve ser possível buscar a lista de cursos;
+- [ ] Deve ser possível cadastrar um curso;
+- [ ] Deve ser possível realizar a matrícula em um curso;
+
 
 ## RBAC
 Roles & permissions
