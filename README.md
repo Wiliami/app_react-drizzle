@@ -16,7 +16,7 @@ Este projeto contém amostra de uma aplicação web usando Drizzle ORM e react p
 ### Courses
 - [ ] Deve ser possível buscar a lista de cursos;
 - [ ] Deve ser possível cadastrar um curso;
-- [ ] Deve ser possível realizar a matrícula em um curso;
+- [ ] Deve ser possível realizar a matrícula de um curso;
 
 
 ## RBAC
