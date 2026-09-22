@@ -9,9 +9,8 @@ Este projeto contém amostra de uma aplicação web usando Drizzle ORM e react p
 - [ ] Deve ser possível recuperar senha usando e-mail;
 - [ ] Deve ser possível criar uma conta (e-mail, nome e senha);
 
-### Members
-- [ ] Deve ser possível buscar a lista de membros;
-- [ ] Deve ser possível atualizar o cargo de um membro;
+### Students
+- [ ] Deve ser possível buscar a lista de alunos;
 
 ### Courses
 - [ ] Deve ser possível buscar a lista de cursos;
