@@ -1,8 +1,8 @@
 import './App.css'
-import { Users } from './pages/users'
+import { StudentsPage } from './pages/students'
 
 export default function App() {
   return (
-      <Users />
+      <StudentsPage />
   )
 }

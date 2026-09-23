@@ -1,12 +1,12 @@
 ###
-GET http://localhost:3000/users
+GET http://localhost:3000/students
 
 ###
-POST http://localhost:3000/users
+POST http://localhost:3000/students
 Content-Type: application/json
 
 {
-    "name": "Filipe Deschamps",
-    "age": 28,
-    "email": "filipe.deschamps@email.com"
+    "name": "Kipper Dev",
+    "age": 25,
+    "email": "kipper.dev@email.com"
 }

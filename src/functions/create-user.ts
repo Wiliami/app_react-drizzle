@@ -1,12 +1,11 @@
 import 'dotenv/config';
-import { usersTable } from '../db/schema';
+import { studentsTable } from '../db/schema';
 import { db } from '../db';
 
-// use case
-export async function createUser({ name, email, age }) {
-  const user = { name, email, age };
+export async function createStudent({ name, email, age }) {
+  const student = { name, email, age };
 
-  const data = await db.insert(usersTable).values(user);
+  const data = await db.insert(studentsTable).values(student);
 
   return data;
 }

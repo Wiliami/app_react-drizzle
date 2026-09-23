@@ -1,5 +1,6 @@
 import Fastify from 'fastify'
-import { users } from './routes/users'
+import cors from '@fastify/cors'
+import { students } from './routes/students'
 
 const fastify = Fastify({
   logger: {
@@ -9,7 +10,12 @@ const fastify = Fastify({
   }
 })
 
-fastify.register(users)
+fastify.register(cors, {
+  origin: 'http://localhost:5173',
+  credentials: false,
+})
+
+fastify.register(students)
 
 fastify.listen({ port: 3000 }, function (err, address) {
   if (err) {
