@@ -1,6 +1,6 @@
 # Stack: Vite + React + Drizzle ORM
 
-Este projeto contém amostra de uma aplicação web usando Drizzle ORM e react para criar a UI.
+Projeto de uma plataforma de cursos online.
 
 ## Features
 
@@ -10,12 +10,12 @@ Este projeto contém amostra de uma aplicação web usando Drizzle ORM e react p
 - [ ] Deve ser possível criar uma conta (e-mail, nome e senha);
 
 ### Students
-- [ ] Deve ser possível buscar a lista de alunos;
+- [ ] Deve ser possível buscar a lista de estudantes;
 
 ### Courses
 - [ ] Deve ser possível buscar a lista de cursos;
 - [ ] Deve ser possível cadastrar um curso;
-- [ ] Deve ser possível realizar a matrícula de um curso;
+- [ ] Deve ser possível realizar a matrícula em um curso;
 
 
 ## RBAC
@@ -23,16 +23,16 @@ Roles & permissions
 
 ### Roles
 - Administrator
-- Member
+- Student
 
 ### Permissions table
 
-|  | Administrator | Member |
+|  | Administrator | Student |
 |---|---|---|
-| Create member  | 🟩 | ❌ |
-| Get members    | 🟩 | ❌ |
-| Update member  | 🟩 | ❌ |
-| Delete member  | 🟩 | ❌ |
+| Create student  | 🟩 | ❌ |
+| Get student     | 🟩 | ❌ |
+| Update student  | 🟩 | ❌ |
+| Delete student  | 🟩 | ❌ |
 
 
 > ✅ = allowed ❌ = not allowed
