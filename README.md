@@ -1,4 +1,4 @@
-# Stack: Vite + React + Drizzle ORM
+# Stack: Vite + React + Shadcn + Drizzle ORM 
 
 Projeto de uma plataforma de cursos online.
 
