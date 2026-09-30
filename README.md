@@ -29,23 +29,15 @@ Plataforma de cursos online no estilo marketplace
 - [ ] Deve ser possível atualizar matrícula;
 
 ## Regras de Negócios (RNs):
-### Cadastro de curso:
-#### Requisitos da Conta
-  - [ ] O instrutor deve criar uma conta de usuário (nome, e-mail e senha);
-  - [ ] Perfil de instrutor: Ativar a função de instrutor no painel da sua conta e aceitar os termos de uso para criadores;
-
-#### Requisitos de Conteúdo e Estrutura
-  - [ ] Duração mínima: O curso deve ter pelo menos 30 minutos de conteúdo em vídeo;
-  - [ ] Número de aulas: Pelo menos 5 aulas individuais publicadas;
-  - [ ] Qualidade do áudio: O som das gravações deve ser claro e sem ruídos excessivos (teste de áudio inicial);
-  - [ ] Restrições sobre IA: A plataforma proíbe cursos inteiramente gerados por inteligência artificial ou ferramentas de conversão de texto em áudio (TTS) de baixa qualidade.
-
-#### Informações da Página do Curso
-  - [ ] Título e subtítulo: Precisam descrever com clareza o que o aluno vai aprender.
-
-#### Informações da Página do Curso;
-  - [ ] Descrição detalhada: Explicar o conteúdo, objetivos de aprendizado e o público-alvo;
-  - [ ] Imagem de capa: Uma imagem atrativa e no formato recomendado pela plataforma.
+- [ ] O instrutor deve criar uma conta de usuário (nome, e-mail e senha);
+- [ ] Perfil de instrutor: Ativar a função de instrutor no painel da sua conta e aceitar os termos de uso para criadores;
+- [ ] Duração mínima: O curso deve ter pelo menos 30 minutos de conteúdo em vídeo;
+- [ ] Número de aulas: Pelo menos 5 aulas individuais publicadas;
+- [ ] Qualidade do áudio: O som das gravações deve ser claro e sem ruídos excessivos (teste de áudio inicial);
+- [ ] Restrições sobre IA: A plataforma proíbe cursos inteiramente gerados por inteligência artificial ou ferramentas de conversão de texto em áudio (TTS) de baixa qualidade.
+- [ ] Título e subtítulo: Precisam descrever com clareza o que o aluno vai aprender.
+- [ ] Descrição detalhada: Explicar o conteúdo, objetivos de aprendizado e o público-alvo;
+- [ ] Imagem de capa: Uma imagem atrativa e no formato recomendado pela plataforma.
 
 ## Requisitos Não Funcionais (RFs):
 - [ ] Utilização da plataforma Vimeo para upload de cursos;
