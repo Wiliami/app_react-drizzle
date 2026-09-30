@@ -42,13 +42,12 @@ Plataforma de cursos online no estilo marketplace
 ## Requisitos Não Funcionais (RFs):
 - [ ] Utilização da plataforma Vimeo para upload de cursos;
  
-
-
 ## RBAC
 Roles & permissions
 
 ### Roles
 - Administrator
+- Instructor
 - Student
 
 ### Permissions table
