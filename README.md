@@ -48,7 +48,7 @@ Plataforma de cursos online no estilo marketplace
   - [ ] Imagem de capa: Uma imagem atrativa e no formato recomendado pela plataforma.
 
 ## Requisitos Não Funcionais (RFs):
-
+- [ ] Utilização da plataforma Vimeo para upload de cursos;
  
 
 
