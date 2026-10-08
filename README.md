@@ -9,17 +9,16 @@ Plataforma de cursos online no estilo marketplace
 - [ ] Deve ser possível criar uma conta (e-mail, nome e senha);
 
 ### Instructor
-- [ ] Deve ser possível realizar cadastro de Professor(a);
-- [ ] Deve ser possível buscar a lista de professores;
+- [ ] Deve ser possível realizar cadastro de Instrutor;
+- [ ] Deve ser possível buscar e visualizar lista de instrutores;
 
 ### Students
 - [ ] Deve ser possível realizar cadastro de estudante;
-- [ ] Deve ser possível buscar a lista de estudantes;
+- [ ] Deve ser possível buscar e visualizar lista de estudantes;
 
 ### Courses
 - [ ] Deve ser possível realizar cadastro de curso;
-- [ ] Deve ser possível buscar lista de cursos;
-- [ ] Deve ser possível realizar matrícula de curso;
+- [ ] Deve ser possível buscar e visualizar lista de cursos;
 - [ ] Deve ser possível atualizar curso;
 
 ### Enrollements
