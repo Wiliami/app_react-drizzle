@@ -1,4 +1,4 @@
-# Stack: Vite + React + Shadcn + Drizzle ORM 
+# Stack: React + Shadcn + Drizzle ORM 
 
 Plataforma de cursos online no estilo marketplace
 
