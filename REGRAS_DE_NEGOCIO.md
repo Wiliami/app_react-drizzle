@@ -1,3 +1,4 @@
+## Regras de Negócios (RNs):
 - [ ] O instrutor deve criar uma conta de usuário (nome, e-mail e senha);
 - [ ] Perfil de instrutor: Ativar a função de instrutor no painel da sua conta e aceitar os termos de uso para criadores;
 - [ ] Duração mínima: O curso deve ter pelo menos 30 minutos de conteúdo em vídeo;
@@ -7,3 +8,6 @@
 - [ ] Título e subtítulo: Precisam descrever com clareza o que o aluno vai aprender.
 - [ ] Descrição detalhada: Explicar o conteúdo, objetivos de aprendizado e o público-alvo;
 - [ ] Imagem de capa: Uma imagem atrativa e no formato recomendado pela plataforma.
+
+## Requisitos Não Funcionais (RFs):
+- [ ] Utilização da plataforma Vimeo para upload de aulas;
