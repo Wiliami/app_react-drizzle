@@ -1,4 +1,4 @@
-# Stack: React + Shadcn + Drizzle ORM 
+# Stack: React + Shadcn UI + Drizzle ORM 
 
 Plataforma de cursos online no estilo marketplace
 
