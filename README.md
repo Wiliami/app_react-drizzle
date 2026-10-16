@@ -26,9 +26,6 @@ Plataforma de cursos online no estilo marketplace
 - [ ] Deve ser possível buscar e visualizar detalhes de matrícula;
 - [ ] Deve ser possível excluir matrícula;
 - [ ] Deve ser possível atualizar matrícula;
-
-## Requisitos Não Funcionais (RFs):
-- [ ] Utilização da plataforma Vimeo para upload de aulas;
  
 ## RBAC
 Roles & permissions
