@@ -2,7 +2,7 @@
 
 Plataforma de cursos online no estilo marketplace
 
-## Requisitos Funcionais (RFs):
+## Features:
 ### Authentication
 - [ ] Deve ser possível autenticar usando email & senha;
 - [ ] Deve ser possível recuperar senha usando e-mail;
